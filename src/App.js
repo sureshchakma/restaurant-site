@@ -1,9 +1,12 @@
+import React from 'react';
 import './App.css';
+import MainComponent from './components/MainComponent';
 
 const App =() => {
   return (
     <div className="App">
-     <h1>Hello Sangudor</h1>
+     
+    < MainComponent/>
     </div>
   );
 }
