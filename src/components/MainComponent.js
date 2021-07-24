@@ -7,7 +7,6 @@ import Header from './header/Header';
 const MainComponent = () => {
     return(
         <div>
-        <h1>Hello world</h1>
         < Header/>
         < Body/>
         < Footer/>

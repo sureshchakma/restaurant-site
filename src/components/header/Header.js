@@ -1,10 +1,10 @@
 import React from 'react';
+import Navigation from './Navigation';
 
 const Header = () => {
     return(
         <div>
-        <h3>This is website where i designed in my love and happiness in the world.</h3>
-        🙂 
+        < Navigation />
         </div>
     );
 }
